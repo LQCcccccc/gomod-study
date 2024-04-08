@@ -1,7 +1,7 @@
-package gomod_study
+package hello
 
 import "fmt"
 
-func SayHi() {
+func Greet() {
 	fmt.Println("hell world~")
 }
