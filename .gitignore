@@ -19,3 +19,12 @@
 
 # Go workspace file
 go.work
+
+# Intellij
+*.ipr
+*.iml
+*.iws
+.idea/
+
+# Mac
+.DS_Store
